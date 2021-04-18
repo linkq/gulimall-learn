@@ -1,0 +1,7 @@
+#DB Configuration
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.31.231:3306/gulimall_pms
+    username: root
+    password: root
