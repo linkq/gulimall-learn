@@ -1,3 +1,5 @@
+use gulimall_admin;
+
 -- 菜单
 CREATE TABLE `sys_menu` (
   `menu_id` bigint NOT NULL AUTO_INCREMENT,
